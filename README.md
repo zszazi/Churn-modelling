@@ -33,5 +33,5 @@ Easy way to upload local dataset to Colab [link](https://colab.research.google.c
 
 **performance metrics**
 
-![image](https://github.com/saicodes/Churn-modelling-/blob/master/images/image.png)
+![image]https://github.com/saicodes/Churn-modelling/blob/master/images/image.png)
                          
