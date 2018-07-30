@@ -32,5 +32,6 @@ The model used here is a basic Artificial Neural Network(ANN) with 2 hidden laye
 Easy way to upload local dataset to Colab [link](https://colab.research.google.com/notebooks/io.ipynb)
 
 **performance metrics**
+
 ![image](https://github.com/saicodes/Churn-modelling-/blob/master/images/image.png)
                          
